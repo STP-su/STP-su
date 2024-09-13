@@ -22,8 +22,7 @@ Security professional with a strong foundation in information technology and han
 * Windows System Administration
 
 ## Education
-- Certificate Information Systems
-  Arapahoe Community College
+- Certificate in Information Systems - Arapahoe Community College
   
 - B.A. - Metropolitan State University of Denver
 
