@@ -4,7 +4,7 @@
 
 
 
-Experienced Systems Administrator with a passion for cloud computing, vulnerability assesment, and troubleshooting. Skilled in Windows & Linux systems, Virtualization, and Network Monitoring. Committed to continuous learning and advancing administration practices.
+Experienced Systems Administrator with a passion for cloud computing, vulnerability assesment, and troubleshooting. Skilled in Windows & Linux systems, Virtualization, and Network Monitoring. Committed to continuous learning and advancing security skills.
 
 ## Professional Summary
 Security professional with a strong foundation in information technology and hands-on experience in data center operations. History of developing innovative solutions, including the implementation of an ELK stack to monitor a mid-size campus network supporting more than 2000 clients. Actively enhancing skills through CTF labs, online training platforms, and certifications. Seeking opportunities to leverage expertise in SIEM, EDR, log analysis, incident response, and security policy writing.
